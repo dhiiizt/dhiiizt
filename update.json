@@ -1,5 +1,6 @@
 {
   "version": "1.1",
-  "changelog": "New feature",
-  "link": "https://www.mediafire.com/file/vglv9rfyxgqqqx5/DroneviewMLBB%252Bv.1.5.1.zip/file"
+  "changelog": "New features and improvements",
+  "link": "https://example.com/download",
+  "required": true
 }
