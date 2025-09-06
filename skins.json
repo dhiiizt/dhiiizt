@@ -1,0 +1,29 @@
+{
+  "heroes": [
+    {
+      "name": "Aldous",
+      "skins": [
+        {
+          "title": "Mistbender",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://raw.githubusercontent.com/username/repo/main/aldous_mistbender.zip"
+        },
+        {
+          "title": "Classic",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png",
+          "file": "https://raw.githubusercontent.com/username/repo/main/aldous_classic.zip"
+        }
+      ]
+    },
+    {
+      "name": "Gusion",
+      "skins": [
+        {
+          "title": "Moonlight Sonata",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://raw.githubusercontent.com/username/repo/main/gusion_sonata.zip"
+        }
+      ]
+    }
+  ]
+}
