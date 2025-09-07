@@ -14,16 +14,6 @@
           "title": "Starscream",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
           "file": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vertikalx1,5.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vertikalx1,5.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vertikalx1,5.zip"
         }
       ],
       "backup_skin": {
@@ -46,24 +36,15 @@
           "title": "Starscream",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
           "file": "https://example.com/aldous_star.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
         }
       ],
       "backup_skin": {
         "title": "Contractor",
         "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
         "file": "https://example.com/aldous_contractor.zip"
-      },
-      {
+      }
+    },
+    {
       "name": "Alpha",
       "role": "Fighter",
       "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
@@ -77,16 +58,6 @@
           "title": "Starscream",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
           "file": "https://example.com/aldous_star.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
         }
       ],
       "backup_skin": {
@@ -94,7 +65,6 @@
         "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
         "file": "https://example.com/aldous_contractor.zip"
       }
-     }
     }
   ]
 }
