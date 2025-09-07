@@ -6,56 +6,55 @@
       "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
       "normalSkins": [
         {
-          "title": "Base",
+          "title": "Backup",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://example.com/files/base.zip"
+        },
+        {
+          "title": "Epic",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/base.zip"
         }
       ],
       "eliteSkins": [
         {
-          "title": "Elite Warrior",
+          "title": "Backup",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/elite.zip"
         }
       ],
       "epicSkins": [
         {
-          "title": "Epic Blaze",
+          "title": "Backup",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/epic.zip"
         }
       ],
       "specialSkins": [
         {
-          "title": "Special Ops",
+          "title": "Backup",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/special.zip"
         }
       ],
-      "legendarySkins": [
-        {
-          "title": "Dragon King",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
-          "file": "https://example.com/files/legendary.zip"
-        }
-      ]
+      "legendarySkins": []
     },
     { "name": "Alpha", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero281-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Alucard", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero071-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Argus", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero451-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Arlott", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1201-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Arlott", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1171-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Aulus", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1081-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Badang", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero771-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Balmond", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Bane", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero111-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Barats", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero991-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Benedetta", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero971-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Chou", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Cici", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1231-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Dyrroth", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero851-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Fredrinn", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1171-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Freya", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Gatotkaca", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Hero411-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Balmond", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero021-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Bane", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero111-portrait.png;", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Barats", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1161-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Benedetta", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero991-portrait.png;", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Chou", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero261-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Cici", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1231-portrait.png;", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Dyrroth", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero851-portrait.png.", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Fredrinn", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1171-portrait.png;", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Freya", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png;", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Gatotkaca", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Hero411-portrait.png;", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Grock", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Hero441-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Guinevere", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero801-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Hilda", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero351-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
@@ -67,7 +66,7 @@
     { "name": "Lapu-Lapu", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero371-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Leomord", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero671-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Lukas", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero1271-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
-    { "name": "Martis", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/20250810_230222.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Martis", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/20250810_230222.png;", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Masha", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero881-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Minsitthar", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero741-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
     { "name": "Paquito", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/20250810_230357.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
