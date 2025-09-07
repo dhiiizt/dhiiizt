@@ -5,40 +5,83 @@
       "role": "Fighter",
       "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
       "normalSkins": [
-        { 
-          "title": "Base", 
+        {
+          "title": "Base",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/base.zip"
         }
       ],
       "eliteSkins": [
-        { 
-          "title": "Elite Warrior", 
+        {
+          "title": "Elite Warrior",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/elite.zip"
         }
       ],
       "epicSkins": [
-        { 
-          "title": "Epic Blaze", 
+        {
+          "title": "Epic Blaze",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/epic.zip"
         }
       ],
       "specialSkins": [
-        { 
-          "title": "Special Ops", 
+        {
+          "title": "Special Ops",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/special.zip"
         }
       ],
       "legendarySkins": [
-        { 
-          "title": "Dragon King", 
+        {
+          "title": "Dragon King",
           "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
           "file": "https://example.com/files/legendary.zip"
         }
       ]
-    }
+    },
+    { "name": "Alpha", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero281-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Alucard", "role": "Fighter", "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero071-portrait.png", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Argus", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Arlott", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Aulus", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Badang", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Balmond", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Bane", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Barats", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Benedetta", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Chou", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Cici", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Dyrroth", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Fredrinn", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Freya", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Gatotkaca", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Grock", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Guinevere", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Hilda", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Jawhead", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Julian", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Kaja", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Kalea", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Khaleed", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Lapu-Lapu", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Leomord", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Lukas", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Martis", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Masha", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Minsitthar", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Paquito", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Phoveus", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Roger", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Ruby", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Silvanna", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Sun", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Suyou", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Terizla", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Thamuz", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "X.Borg", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Yin", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Yu Zhong", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] },
+    { "name": "Zilong", "role": "Fighter", "portrait": "", "normalSkins": [], "eliteSkins": [], "epicSkins": [], "specialSkins": [], "legendarySkins": [] }
   ]
 }
