@@ -4,112 +4,44 @@
       "name": "Aldous",
       "role": "Fighter",
       "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
-      "skins": [
-        {
-          "title": "Mistbender",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png",
-          "file": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vertikalx1,5.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vertikalx1,5.zip"
+      "normalSkins": [
+        { 
+          "title": "Base", 
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://example.com/files/base.zip"
         }
       ],
-      "backup_skin": {
-        "title": "Contractor",
-        "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-        "file": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vertikalx1,5.zip"
-      }
-    },
-    {
-      "name": "Aulus",
-      "role": "Fighter",
-      "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
-      "skins": [
-        {
-          "title": "Mistbender",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png",
-          "file": "https://example.com/aldous_mistbender.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
+      "eliteSkins": [
+        { 
+          "title": "Elite Warrior", 
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://example.com/files/elite.zip"
         }
       ],
-      "backup_skin": {
-        "title": "Contractor",
-        "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-        "file": "https://example.com/aldous_contractor.zip"
-      }
-    },
-    {
-      "name": "Alpha",
-      "role": "Fighter",
-      "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
-      "skins": [
-        {
-          "title": "Mistbender",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png",
-          "file": "https://example.com/aldous_mistbender.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
+      "epicSkins": [
+        { 
+          "title": "Epic Blaze", 
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://example.com/files/epic.zip"
         }
       ],
-      "backup_skin": {
-        "title": "Contractor",
-        "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-        "file": "https://example.com/aldous_contractor.zip"
-      }
-    },
-    {
-      "name": "Amon",
-      "role": "Fighter",
-      "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
-      "skins": [
-        {
-          "title": "Mistbender",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png",
-          "file": "https://example.com/aldous_mistbender.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
+      "specialSkins": [
+        { 
+          "title": "Special Ops", 
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://example.com/files/special.zip"
         }
       ],
-      "backup_skin": {
-        "title": "Contractor",
-        "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-        "file": "https://example.com/aldous_contractor.zip"
-      }
-    },
-    {
-      "name": "Freya",
-      "role": "Fighter",
-      "portrait": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
-      "skins": [
-        {
-          "title": "Mistbender",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero221-portrait.png",
-          "file": "https://example.com/aldous_mistbender.zip"
-        },
-        {
-          "title": "Starscream",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-          "file": "https://example.com/aldous_star.zip"
+      "legendarySkins": [
+        { 
+          "title": "Dragon King", 
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero641-portrait.png",
+          "file": "https://example.com/files/legendary.zip"
         }
-      ],
-      "backup_skin": {
-        "title": "Contractor",
-        "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Hero831-portrait.png",
-        "file": "https://example.com/aldous_contractor.zip"
-      }
-    },
+      ]
+    }
+  ]
+}    },
     {
       "name": "Argus",
       "role": "Fighter",
