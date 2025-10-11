@@ -14,5 +14,37 @@
     "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
     "download_url": "https://example.com/files/gusion.zip"
+  },
+  {
+    "hero_name": "Alucard",
+    "skin_name": "Obsidian Blade",
+    "role": "Fighter/Assassin",
+    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
+    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "download_url": "https://example.com/files/alucard.zip"
+  },
+  {
+    "hero_name": "Gusion",
+    "skin_name": "Cosmic Gleam",
+    "role": "Assassin",
+    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
+    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "download_url": "https://example.com/files/gusion.zip"
+  },
+  {
+    "hero_name": "Alucard",
+    "skin_name": "Obsidian Blade",
+    "role": "Fighter/Assassin",
+    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
+    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "download_url": "https://example.com/files/alucard.zip"
+  },
+  {
+    "hero_name": "Gusion",
+    "skin_name": "Cosmic Gleam",
+    "role": "Assassin",
+    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
+    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "download_url": "https://example.com/files/gusion.zip"
   }
 ]
