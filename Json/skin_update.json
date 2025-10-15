@@ -5,7 +5,7 @@
     "role": "Fighter/Assassin",
     "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-    "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
+    "download_url": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/main/vx1.zip"
   },
   {
     "hero_name": "Gusion",
@@ -13,7 +13,7 @@
     "role": "Assassin",
     "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-    "download_url": "https://example.com/files/gusion.zip"
+    "download_url": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/main/vx1.zip"
   },
   {
     "hero_name": "Alucard",
@@ -21,7 +21,7 @@
     "role": "Fighter/Assassin",
     "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-    "download_url": "https://example.com/files/alucard.zip"
+    "download_url": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/main/vx1.zip"
   },
   {
     "hero_name": "Gusion",
@@ -29,7 +29,7 @@
     "role": "Assassin",
     "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-    "download_url": "https://example.com/files/gusion.zip"
+    "download_url": "https://https://raw.githubusercontent.com/dhiiizt/dhiiizt/main/vx1.zip"
   },
   {
     "hero_name": "Alucard",
@@ -37,7 +37,7 @@
     "role": "Fighter/Assassin",
     "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-    "download_url": "https://example.com/files/alucard.zip"
+    "download_url": "https:/https://raw.githubusercontent.com/dhiiizt/dhiiizt/main/vx1.zip"
   },
   {
     "hero_name": "Gusion",
@@ -45,6 +45,6 @@
     "role": "Assassin",
     "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-    "download_url": "https://example.com/files/gusion.zip"
+    "download_url": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/main/vx1.zip"
   }
 ]
