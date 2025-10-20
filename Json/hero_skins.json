@@ -1,0 +1,51 @@
+{
+  "heroes": [
+    {
+      "name": "Saber",
+      "title": "Wandering Sword",
+      "role": "Assassin",
+      "image": "https://example.com/saber.jpg",
+      "official_skins": [
+        {
+          "name": "Codename Storm",
+          "image": "https://example.com/storm.jpg",
+          "icon": "https://example.com/icons/legend.png",
+          "download_url": "https://example.com/storm.zip"
+        },
+        {
+          "name": "S.A.B.E.R Regulator",
+          "image": "https://example.com/saber_regulator.jpg",
+          "icon": "https://example.com/icons/epic.png",
+          "download_url": "https://example.com/saber_regulator.zip"
+        }
+      ],
+      "upgrade_skins": [
+        {
+          "name": "Golden Flash",
+          "image": "https://example.com/golden.jpg",
+          "icon": "https://example.com/icons/elite.png",
+          "replacement_skins": [
+            {
+              "name": "Codename Storm",
+              "image": "https://example.com/storm.jpg",
+              "icon": "https://example.com/icons/legend.png",
+              "download_url": "https://example.com/storm.zip"
+            },
+            {
+              "name": "Onimaru",
+              "image": "https://example.com/onimaru.jpg",
+              "icon": "https://example.com/icons/special.png",
+              "download_url": "https://example.com/onimaru.zip"
+            }
+          ]
+        },
+        {
+          "name": "Fullmetal Ronin",
+          "image": "https://example.com/fullmetal.jpg",
+          "icon": "https://example.com/icons/epic.png",
+          "replacement_skins": []
+        }
+      ]
+    }
+  ]
+}
