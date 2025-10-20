@@ -4,7 +4,7 @@
       "name": "Saber",
       "title": "Wandering Sword",
       "role": "Assassin",
-      "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+      "image": "https://github.com/dhiiizt/dhiiizt/blob/main/Hero031-portrait.png",
       "official_skins": [
         {
           "name": "Codename Storm",
@@ -50,8 +50,8 @@
         {
       "name": "Alpha",
       "title": "Wandering Sword",
-      "role": "Fighter",
-      "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+      "role": "Fighter/Assassin",
+      "image": "https://github.com/dhiiizt/dhiiizt/blob/main/Hero081-portrait.png",
       "official_skins": [
         {
           "name": "Codename Storm",
