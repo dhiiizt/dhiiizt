@@ -4,45 +4,45 @@
       "name": "Saber",
       "title": "Wandering Sword",
       "role": "Assassin",
-      "image": "https://example.com/saber.jpg",
+      "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
       "official_skins": [
         {
           "name": "Codename Storm",
-          "image": "https://example.com/storm.jpg",
-          "icon": "https://example.com/icons/legend.png",
-          "download_url": "https://example.com/storm.zip"
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
+          "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
         },
         {
           "name": "S.A.B.E.R Regulator",
-          "image": "https://example.com/saber_regulator.jpg",
-          "icon": "https://example.com/icons/epic.png",
-          "download_url": "https://example.com/saber_regulator.zip"
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
+          "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
         }
       ],
       "upgrade_skins": [
         {
           "name": "Golden Flash",
-          "image": "https://example.com/golden.jpg",
-          "icon": "https://example.com/icons/elite.png",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
           "replacement_skins": [
             {
               "name": "Codename Storm",
-              "image": "https://example.com/storm.jpg",
-              "icon": "https://example.com/icons/legend.png",
-              "download_url": "https://example.com/storm.zip"
+              "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+              "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
+              "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
             },
             {
               "name": "Onimaru",
-              "image": "https://example.com/onimaru.jpg",
-              "icon": "https://example.com/icons/special.png",
-              "download_url": "https://example.com/onimaru.zip"
+              "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+              "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
+              "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
             }
           ]
         },
         {
           "name": "Fullmetal Ronin",
-          "image": "https://example.com/fullmetal.jpg",
-          "icon": "https://example.com/icons/epic.png",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
           "replacement_skins": []
         }
       ]
