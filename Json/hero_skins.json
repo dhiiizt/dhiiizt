@@ -4,7 +4,7 @@
       "name": "Saber",
       "title": "Wandering Sword",
       "role": "Assassin",
-      "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Hero031-portrait.png",
+      "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
       "official_skins": [
         {
           "name": "Codename Storm",
@@ -47,50 +47,32 @@
         }
       ]
     },
-        {
-      "name": "Alpha",
-      "title": "Wandering Sword",
+    {
+      "name": "Alucard",
+      "title": "Demon Hunter",
       "role": "Fighter",
-      "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Hero041-portrait.png",
+      "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alucard.jpg",
       "official_skins": [
         {
-          "name": "Codename Storm",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-          "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
-        },
-        {
-          "name": "S.A.B.E.R Regulator",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-          "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
+          "name": "Fiery Inferno",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alucard.jpg",
+          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1202-icon.png",
+          "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/alucard_skin.zip"
         }
       ],
       "upgrade_skins": [
         {
-          "name": "Golden Flash",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
+          "name": "Obsidian Blade",
+          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alucard.jpg",
+          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1202-icon.png",
           "replacement_skins": [
             {
-              "name": "Codename Storm",
-              "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-              "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-              "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
-            },
-            {
-              "name": "Onimaru",
-              "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-              "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-              "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
+              "name": "Fiery Inferno",
+              "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alucard.jpg",
+              "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1202-icon.png",
+              "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/alucard_skin.zip"
             }
           ]
-        },
-        {
-          "name": "Fullmetal Ronin",
-          "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-          "icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-          "replacement_skins": []
         }
       ]
     }
