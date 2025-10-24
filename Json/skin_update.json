@@ -1,50 +1,50 @@
 [
   {
-    "hero_name": "Alucard",
-    "skin_name": "Obsidian Blade",
+    "hero_name": "Miya",
+    "skin_name": "Nightowl Huntress",
     "role": "Fighter/Assassin",
-    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
-    "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
-  },
-  {
-    "hero_name": "Gusion",
-    "skin_name": "Cosmic Gleam",
-    "role": "Assassin",
-    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
-    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "role_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero100114-icon.png/revision/latest?cb=20250403144506",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg/revision/latest?cb=20250606132014",
     "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
   },
   {
     "hero_name": "Alucard",
-    "skin_name": "Obsidian Blade",
-    "role": "Fighter/Assassin",
-    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "skin_name": "Lightborn",
+    "role": "Assassin",
+    "role_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest?cb=20220922084844",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
     "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
   },
   {
-    "hero_name": "Gusion",
-    "skin_name": "Cosmic Gleam",
-    "role": "Assassin",
-    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
-    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "hero_name": "Miya",
+    "skin_name": "Nightowl Huntress",
+    "role": "Fighter/Assassin",
+    "role_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero100114-icon.png/revision/latest?cb=20250403144506",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg/revision/latest?cb=20250606132014",
     "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
   },
   {
     "hero_name": "Alucard",
-    "skin_name": "Obsidian Blade",
+    "skin_name": "Lightborn",
+    "role": "Assassin",
+    "role_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest?cb=20220922084844",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
+    "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
+  },
+{
+    "hero_name": "Miya",
+    "skin_name": "Nightowl Huntress",
     "role": "Fighter/Assassin",
-    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero1201-icon.png",
-    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "role_icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero100114-icon.png/revision/latest?cb=20250403144506",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Miya_%28Nightowl_Huntress%29.jpg/revision/latest?cb=20250606132014",
     "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
   },
   {
-    "hero_name": "Gusion",
-    "skin_name": "Cosmic Gleam",
+    "hero_name": "Alucard",
+    "skin_name": "Lightborn",
     "role": "Assassin",
-    "role_icon": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Icon/Hero641-icon.png",
-    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Fighter/Alpha_(Revenant_of_Roses).jpg",
+    "role_icon": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest?cb=20220922084844",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Alucard_%28Lightborn_-_Striker%29.jpg/revision/latest?cb=20220920085008",
     "download_url": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/vx1.zip"
   }
 ]
