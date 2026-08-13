@@ -1,7 +1,7 @@
 {
   "download_wallpaper": true,
-  "preview_skins": false,
-  "drone_view": false
+  "preview_skins": true,
+  "drone_view": true
 
 
 }
