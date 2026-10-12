@@ -1,7 +1,6 @@
 {
   "download_wallpaper": false,
   "preview_skins": false,
-  "drone_view": false
-
-
+  "drone_view": false,
+  "ranking_hero_skins": false
 }
