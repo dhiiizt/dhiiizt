@@ -1,5 +1,5 @@
 {
   "preview_skins": false,
-  "drone_view": true,
-  "ranking_hero_skins": true
+  "drone_view": false,
+  "ranking_hero_skins": false
 }
